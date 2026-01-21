@@ -15,7 +15,6 @@ Responsive multi-section landing page built with HTML and CSS (Elzero template).
 - Font Awesome
 
 ## Live Demo
-https://YOUR-USERNAME.github.io/Elzero-template/
-
+[https://abdullahalhakim-14.github.io/Elzero-template/]
 ## Run Locally
 Open `index.html` in your browser.
